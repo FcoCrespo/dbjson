@@ -27,34 +27,5 @@
       "unidad": "KG",
       "descripcion": "Producto A3 de Acme Inc."
     }
-  },
-  "2022101200": {
-    "126292": {
-      "ean": ["123456", "789012"],
-      "fab": "Acme Inc.",
-      "ref_fab": "A1",
-      "suj_lote": "",
-      "lotes": [],
-      "unidad": "UN",
-      "descripcion": "Producto A1 de Acme Inc."
-    },
-    "163160": {
-      "ean": ["345678", "901234"],
-      "fab": "Acme Inc.",
-      "ref_fab": "A2",
-      "suj_lote": "X",
-      "lotes": ["L3", "L4"],
-      "unidad": "M",
-      "descripcion": "Producto A2 de Acme Inc."
-    },
-    "163161": {
-      "ean": ["567890", "012345"],
-      "fab": "Acme Inc.",
-      "ref_fab": "A3",
-      "suj_lote": "X",
-      "lotes": [],
-      "unidad": "KG",
-      "descripcion": "Producto A3 de Acme Inc."
-    }
   }
 }
