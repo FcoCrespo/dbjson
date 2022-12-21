@@ -6,7 +6,7 @@
         "fab": "Acme Inc.",
         "ref_fab": "A2",
         "suj_lote": "X",
-        "lotes": ["L3", "L4"],
+        "lotes": [],
         "unidad": "M",
         "descripcion": "Producto A2 de Acme Inc."
       }
