@@ -1,15 +1,6 @@
 {
   "2021101200": [
     {
-      "126292": {
-        "ean": ["123456", "789012"],
-        "fab": "Acme Inc.",
-        "ref_fab": "A1",
-        "suj_lote": "",
-        "lotes": [],
-        "unidad": "UN",
-        "descripcion": "Producto A1 de Acme Inc."
-      },
       "163160": {
         "ean": ["345678", "901234"],
         "fab": "Acme Inc.",
@@ -18,27 +9,11 @@
         "lotes": ["L3", "L4"],
         "unidad": "M",
         "descripcion": "Producto A2 de Acme Inc."
-      },
-      "163161": {
-        "ean": ["567890", "012345"],
-        "fab": "Acme Inc.",
-        "ref_fab": "A3",
-        "suj_lote": "X",
-        "lotes": [],
-        "unidad": "KG",
-        "descripcion": "Producto A3 de Acme Inc."
       }
     }
   ],
   "recuentos": {
         "2022120700": [
-            {
-                "126292": {
-                    "fecha": "2022,191",
-                    "hora": "165012",
-                    "conteo": "756.000"
-                }
-            },
             {
                 "163160": {
                     "fecha": "2022,191",
