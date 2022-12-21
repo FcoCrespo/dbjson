@@ -5,9 +5,8 @@
         "ean": ["345678", "901234"],
         "fab": "Acme Inc.",
         "ref_fab": "A2",
-        "suj_lote": "X",
-        "lotes": [],
-        "unidad": "M",
+        "suj_lote": "",
+        "unidad": "UN",
         "descripcion": "Producto A2 de Acme Inc."
       }
     }
