@@ -26,7 +26,9 @@
           ],
         "unidad": "M",
         "descripcion": "CABLE RZ1-K CU C/H 1KV 4X16"
-      },
+      }
+    },
+    {
       "163161": {
         "ean": [
           "5631605"
@@ -38,7 +40,9 @@
         "tipo_stk_ad": [],
         "unidad": "M",
         "descripcion": "CABLE RZ1-K CU C/H 1KV 4X16+1X1.5"
-      },
+      }
+    },
+    {
       "163162": {
         "ean": [
           "5631612"
@@ -52,7 +56,9 @@
          ],
         "unidad": "M",
         "descripcion": "CABLE RZ1-K CU C/H 1KV 4X16+1X1.5"
-      },
+      }
+    },
+    {
       "126292": {
         "ean": [
           "8421053035481"
@@ -66,7 +72,9 @@
         ],
         "unidad": "UN",
         "descripcion": "INTERRUPTOR UNIP.ESTRECHO S.27 BL.NIEVE"
-      },
+      }
+    },
+    {
       "126293": {
         "ean": [
           "8421053035498"
@@ -136,4 +144,3 @@
     }
   ]
 }
-
