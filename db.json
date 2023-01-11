@@ -16,9 +16,9 @@
         "ref_fab": "RZ1-K 4X16",
         "suj_lote": "X",
         "lotes": [
-          "LOTE1",
-          "LOTE2",
-          "LOTE3"
+          "ALOTE1",
+          "ALOTE2",
+          "ALOTE3"
         ],
         "tipo_stk_ad": [
           "I",
@@ -56,6 +56,44 @@
          ],
         "unidad": "M",
         "descripcion": "CABLE RZ1-K CU C/H 1KV 4X16+1X1.5"
+      }
+    },
+    {
+      "163163": {
+        "ean": [
+          "5631629"
+        ],
+        "fab": "CONDUCTOR RVK, ENERGIA COBRE",
+        "ref_fab": "RZ1-K 4X35",
+        "suj_lote": "X",
+        "lotes": [
+          "BLOTE4",
+          "BLOTE5",
+          "BLOTE6"
+        ],
+        "tipo_stk_ad": [
+          "B"
+        ],
+        "unidad": "M",
+        "descripcion": "CABLE RZ1-K CU C/H 1KV 4X35"
+      }
+    },
+    {
+      "163164": {
+        "ean": [
+          "5631636"
+        ],
+        "fab": "CONDUCTOR RVK, ENERGIA COBRE",
+        "ref_fab": "RZ1-K 4X35",
+        "suj_lote": "X",
+        "lotes": [
+          "CLOTE8",
+          "CLOTE9"
+        ],
+        "tipo_stk_ad": [
+        ],
+        "unidad": "M",
+        "descripcion": "CABLE RZ1-K CU C/H 1KV 4X50"
       }
     },
     {
