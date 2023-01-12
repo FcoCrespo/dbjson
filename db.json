@@ -90,8 +90,7 @@
           "CLOTE8",
           "CLOTE9"
         ],
-        "tipo_stk_ad": [
-        ],
+        "tipo_stk_ad": [],
         "unidad": "M",
         "descripcion": "CABLE RZ1-K CU C/H 1KV 4X50"
       }
@@ -121,6 +120,7 @@
         "ref_fab": "27101-65",
         "suj_lote": "",
         "lotes": [],
+        "tipo_stk_ad": [],
         "unidad": "UN",
         "descripcion": "INTERRUPTOR UNIP.ESTRECHO S.27 BL.NIEVE"
       }
