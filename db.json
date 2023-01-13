@@ -1,4 +1,3 @@
-
 {
   "2022120700": [
     {
@@ -24,7 +23,7 @@
         "tipo_stk_ad": [
           "I",
           "B"
-          ],
+        ],
         "unidad": "M",
         "descripcion": "CABLE RZ1-K CU C/H 1KV 4X16"
       }
@@ -37,8 +36,12 @@
         "fab": "CONDUCTOR RVK, ENERGIA COBRE",
         "ref_fab": "RZ1-K 4X25",
         "suj_lote": "X",
-        "lotes": [],
-        "tipo_stk_ad": [],
+        "lotes": [
+          
+        ],
+        "tipo_stk_ad": [
+          
+        ],
         "unidad": "M",
         "descripcion": "CABLE RZ1-K CU C/H 1KV 4X16+1X1.5"
       }
@@ -51,10 +54,12 @@
         "fab": "CONDUCTOR RVK, ENERGIA COBRE",
         "ref_fab": "RZ1-K 4X16+1X1,5",
         "suj_lote": "X",
-        "lotes": [],
-         "tipo_stk_ad": [
+        "lotes": [
+          
+        ],
+        "tipo_stk_ad": [
           "I"
-         ],
+        ],
         "unidad": "M",
         "descripcion": "CABLE RZ1-K CU C/H 1KV 4X16+1X1.5"
       }
@@ -91,7 +96,9 @@
           "CLOTE8",
           "CLOTE9"
         ],
-        "tipo_stk_ad": [],
+        "tipo_stk_ad": [
+          
+        ],
         "unidad": "M",
         "descripcion": "CABLE RZ1-K CU C/H 1KV 4X50"
       }
@@ -104,7 +111,9 @@
         "fab": "SIMON, S.A",
         "ref_fab": "A2",
         "suj_lote": "",
-        "lotes": [],
+        "lotes": [
+          
+        ],
         "tipo_stk_ad": [
           "B"
         ],
@@ -120,8 +129,12 @@
         "fab": "SIMON, S.A",
         "ref_fab": "27101-65",
         "suj_lote": "",
-        "lotes": [],
-        "tipo_stk_ad": [],
+        "lotes": [
+          
+        ],
+        "tipo_stk_ad": [
+          
+        ],
         "unidad": "UN",
         "descripcion": "INTERRUPTOR UNIP.ESTRECHO S.27 BL.NIEVE"
       }
@@ -151,7 +164,7 @@
         "tipo_stk_ad": [
           "I",
           "B"
-          ],
+        ],
         "unidad": "M",
         "descripcion": "CABLE RZ1-K CU C/H 1KV 4X16"
       }
@@ -164,8 +177,12 @@
         "fab": "CONDUCTOR RVK, ENERGIA COBRE",
         "ref_fab": "RZ1-K 4X25",
         "suj_lote": "X",
-        "lotes": [],
-        "tipo_stk_ad": [],
+        "lotes": [
+          
+        ],
+        "tipo_stk_ad": [
+          
+        ],
         "unidad": "M",
         "descripcion": "CABLE RZ1-K CU C/H 1KV 4X16+1X1.5"
       }
@@ -178,10 +195,12 @@
         "fab": "CONDUCTOR RVK, ENERGIA COBRE",
         "ref_fab": "RZ1-K 4X16+1X1,5",
         "suj_lote": "X",
-        "lotes": [],
-         "tipo_stk_ad": [
+        "lotes": [
+          
+        ],
+        "tipo_stk_ad": [
           "I"
-         ],
+        ],
         "unidad": "M",
         "descripcion": "CABLE RZ1-K CU C/H 1KV 4X16+1X1.5"
       }
@@ -218,7 +237,9 @@
           "CLOTE8",
           "CLOTE9"
         ],
-        "tipo_stk_ad": [],
+        "tipo_stk_ad": [
+          
+        ],
         "unidad": "M",
         "descripcion": "CABLE RZ1-K CU C/H 1KV 4X50"
       }
@@ -231,7 +252,9 @@
         "fab": "SIMON, S.A",
         "ref_fab": "A2",
         "suj_lote": "",
-        "lotes": [],
+        "lotes": [
+          
+        ],
         "tipo_stk_ad": [
           "B"
         ],
@@ -247,116 +270,103 @@
         "fab": "SIMON, S.A",
         "ref_fab": "27101-65",
         "suj_lote": "",
-        "lotes": [],
-        "tipo_stk_ad": [],
+        "lotes": [
+          
+        ],
+        "tipo_stk_ad": [
+          
+        ],
         "unidad": "UN",
         "descripcion": "INTERRUPTOR UNIP.ESTRECHO S.27 BL.NIEVE"
       }
     }
   ],
   "recuentos": {
-        "2022120700": [
-            {
-                "163160": {
-                  "fecha": "2022,191",
-                  "hora": "165012",
-                  "conteo": "700.000",
-                  "lote": "ALOTE1",
-                  "tipo_stk_ad": "I"
-                }
-            },
-            {
-                "163160": {
-                  "fecha": "2022,191",
-                  "hora": "165012",
-                  "conteo": "1000.000",
-                  "lote": "ALOTE2",
-                  "tipo_stk_ad": "B"
-                }
-            },
-            {
-                "163160": {
-                  "fecha": "2022,191",
-                  "hora": "165012",
-                  "conteo": "1500.000",
-                  "lote": "ALOTE2"
-                }
-            },
-            {
-                "163160": {
-                  "fecha": "2022,191",
-                  "hora": "165012",
-                  "conteo": "1500.000",
-                  "lote": "ALOTE2"
-                }
-            },
-            {
-                "126292": {
-                  "fecha": "2022,191",
-                  "hora": "165012",
-                  "conteo": "600.000",
-                  "tipo_stk_ad": "B"
-                }
-            },
-            {
-                "126292": {
-                  "fecha": "2022,191",
-                  "hora": "165012",
-                  "conteo": "400.000"
-                }
-            }
-        ],
-        "2023011200": [
-            {
-                "163166": {
-                  "fecha": "2022,191",
-                  "hora": "165012",
-                  "conteo": "700.000",
-                  "lote": "ALOTE1",
-                  "tipo_stk_ad": "I"
-                }
-            },
-            {
-                "163166": {
-                  "fecha": "2022,191",
-                  "hora": "165012",
-                  "conteo": "1000.000",
-                  "lote": "ALOTE2",
-                  "tipo_stk_ad": "B"
-                }
-            },
-            {
-                "163166": {
-                  "fecha": "2022,191",
-                  "hora": "165012",
-                  "conteo": "1500.000",
-                  "lote": "ALOTE2"
-                }
-            },
-            {
-                "163166": {
-                  "fecha": "2022,191",
-                  "hora": "165012",
-                  "conteo": "1500.000",
-                  "lote": "ALOTE2"
-                }
-            },
-            {
-                "126294": {
-                  "fecha": "2022,191",
-                  "hora": "165012",
-                  "conteo": "600.000",
-                  "tipo_stk_ad": "B"
-                }
-            },
-            {
-                "126294": {
-                  "feca": "2022,191",
-                  "hora": "165012",
-                  "conteo": "400.000"
-                }
-            }
-        ]
+    "2022120700": [
+      {
+        "163160": {
+          "fecha": "2022,191",
+          "hora": "165012",
+          "conteo": "700.000",
+          "lote": "ALOTE1",
+          "tipo_stk_ad": "I"
+        }
+      },
+      {
+        "163160": {
+          "fecha": "2022,191",
+          "hora": "165012",
+          "conteo": "1000.000",
+          "lote": "ALOTE2",
+          "tipo_stk_ad": "B"
+        }
+      },
+      {
+        "163160": {
+          "fecha": "2022,191",
+          "hora": "165012",
+          "conteo": "1500.000",
+          "lote": "ALOTE2"
+        }
+      },
+      {
+        "126292": {
+          "fecha": "2022,191",
+          "hora": "165012",
+          "conteo": "600.000",
+          "tipo_stk_ad": "B"
+        }
+      },
+      {
+        "126292": {
+          "fecha": "2022,191",
+          "hora": "165012",
+          "conteo": "400.000"
+        }
+      }
+    ],
+    "2023011200": [
+      {
+        "163166": {
+          "fecha": "2022,191",
+          "hora": "165012",
+          "conteo": "700.000",
+          "lote": "ALOTE1",
+          "tipo_stk_ad": "I"
+        }
+      },
+      {
+        "163166": {
+          "fecha": "2022,191",
+          "hora": "165012",
+          "conteo": "1000.000",
+          "lote": "ALOTE2",
+          "tipo_stk_ad": "B"
+        }
+      },
+      {
+        "163166": {
+          "fecha": "2022,191",
+          "hora": "165012",
+          "conteo": "1500.000",
+          "lote": "ALOTE2"
+        }
+      },
+      {
+        "126294": {
+          "fecha": "2022,191",
+          "hora": "165012",
+          "conteo": "600.000",
+          "tipo_stk_ad": "B"
+        }
+      },
+      {
+        "126294": {
+          "feca": "2022,191",
+          "hora": "165012",
+          "conteo": "400.000"
+        }
+      }
+    ]
   }
-  
 }
