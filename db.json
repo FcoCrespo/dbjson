@@ -1,372 +1,41 @@
 {
-  "2022120700": [
-    {
-      "163160": {
-        "ean": [
-          "5631599",
-          "4365676",
-          "56315992345",
-          "561599",
-          "4646464646",
-          "1456321",
-          "147258369",
-          "494949"
-        ],
-        "fab": "CONDUCTOR RVK, ENERGIA COBRE",
-        "ref_fab": "RZ1-K 4X16",
-        "suj_lote": "X",
-        "lotes": [
-          "ALOTE1",
-          "ALOTE2",
-          "ALOTE3"
-        ],
-        "tipo_stk_ad": [
-          "I",
-          "B"
-        ],
-        "unidad": "M",
-        "descripcion": "CABLE RZ1-K CU C/H 1KV 4X16"
-      }
-    },
-    {
-      "163161": {
-        "ean": [
-          "5631605"
-        ],
-        "fab": "CONDUCTOR RVK, ENERGIA COBRE",
-        "ref_fab": "RZ1-K 4X25",
-        "suj_lote": "X",
-        "lotes": [
-          
-        ],
-        "tipo_stk_ad": [
-          
-        ],
-        "unidad": "M",
-        "descripcion": "CABLE RZ1-K CU C/H 1KV 4X16+1X1.5"
-      }
-    },
-    {
-      "163162": {
-        "ean": [
-          "5631612"
-        ],
-        "fab": "CONDUCTOR RVK, ENERGIA COBRE",
-        "ref_fab": "RZ1-K 4X16+1X1,5",
-        "suj_lote": "X",
-        "lotes": [
-          
-        ],
-        "tipo_stk_ad": [
-          "I"
-        ],
-        "unidad": "M",
-        "descripcion": "CABLE RZ1-K CU C/H 1KV 4X16+1X1.5"
-      }
-    },
-    {
-      "163163": {
-        "ean": [
-          "5631629"
-        ],
-        "fab": "CONDUCTOR RVK, ENERGIA COBRE",
-        "ref_fab": "RZ1-K 4X35",
-        "suj_lote": "X",
-        "lotes": [
-          "BLOTE4",
-          "BLOTE5",
-          "BLOTE6"
-        ],
-        "tipo_stk_ad": [
-          "B"
-        ],
-        "unidad": "M",
-        "descripcion": "CABLE RZ1-K CU C/H 1KV 4X35"
-      }
-    },
-    {
-      "163164": {
-        "ean": [
-          "5631636"
-        ],
-        "fab": "CONDUCTOR RVK, ENERGIA COBRE",
-        "ref_fab": "RZ1-K 4X35",
-        "suj_lote": "X",
-        "lotes": [
-          "CLOTE8",
-          "CLOTE9"
-        ],
-        "tipo_stk_ad": [
-          
-        ],
-        "unidad": "M",
-        "descripcion": "CABLE RZ1-K CU C/H 1KV 4X50"
-      }
-    },
-    {
-      "126292": {
-        "ean": [
-          "8421053035481"
-        ],
-        "fab": "SIMON, S.A",
-        "ref_fab": "A2",
-        "suj_lote": "",
-        "lotes": [
-          
-        ],
-        "tipo_stk_ad": [
-          "B"
-        ],
-        "unidad": "UN",
-        "descripcion": "INTERRUPTOR UNIP.ESTRECHO S.27 BL.NIEVE"
-      }
-    },
-    {
-      "126293": {
-        "ean": [
-          "8421053035498"
-        ],
-        "fab": "SIMON, S.A",
-        "ref_fab": "27101-65",
-        "suj_lote": "",
-        "lotes": [
-          
-        ],
-        "tipo_stk_ad": [
-          
-        ],
-        "unidad": "UN",
-        "descripcion": "INTERRUPTOR UNIP.ESTRECHO S.27 BL.NIEVE"
-      }
-    }
+  "status": "S",
+  "codigo": "163160",
+  "doc_inventario": "2022120700",
+  "fab": "CONDUCTOR RVK, ENERGIA COBRE",
+  "ref_fab": "RZ1-K 4X16",
+  "suj_lote": "X",
+  "lotes": [
+    "ALOTE1",
+    "ALOTE2",
+    "ALOTE3"
   ],
-  "2023011200": [
-    {
-      "163166": {
-        "ean": [
-          "5631599",
-          "4365676",
-          "56315992345",
-          "561599",
-          "4646464646",
-          "1456321",
-          "147258369",
-          "494949"
-        ],
-        "fab": "CONDUCTOR RVK, ENERGIA COBRE",
-        "ref_fab": "RZ1-K 4X16",
-        "suj_lote": "X",
-        "lotes": [
-          "ALOTE1",
-          "ALOTE2",
-          "ALOTE3"
-        ],
-        "tipo_stk_ad": [
-          "I",
-          "B"
-        ],
-        "unidad": "M",
-        "descripcion": "CABLE RZ1-K CU C/H 1KV 4X16"
-      }
-    },
-    {
-      "163167": {
-        "ean": [
-          "5631605"
-        ],
-        "fab": "CONDUCTOR RVK, ENERGIA COBRE",
-        "ref_fab": "RZ1-K 4X25",
-        "suj_lote": "X",
-        "lotes": [
-          
-        ],
-        "tipo_stk_ad": [
-          
-        ],
-        "unidad": "M",
-        "descripcion": "CABLE RZ1-K CU C/H 1KV 4X16+1X1.5"
-      }
-    },
-    {
-      "163168": {
-        "ean": [
-          "5631612"
-        ],
-        "fab": "CONDUCTOR RVK, ENERGIA COBRE",
-        "ref_fab": "RZ1-K 4X16+1X1,5",
-        "suj_lote": "X",
-        "lotes": [
-          
-        ],
-        "tipo_stk_ad": [
-          "I"
-        ],
-        "unidad": "M",
-        "descripcion": "CABLE RZ1-K CU C/H 1KV 4X16+1X1.5"
-      }
-    },
-    {
-      "163169": {
-        "ean": [
-          "5631629"
-        ],
-        "fab": "CONDUCTOR RVK, ENERGIA COBRE",
-        "ref_fab": "RZ1-K 4X35",
-        "suj_lote": "X",
-        "lotes": [
-          "BLOTE4",
-          "BLOTE5",
-          "BLOTE6"
-        ],
-        "tipo_stk_ad": [
-          "B"
-        ],
-        "unidad": "M",
-        "descripcion": "CABLE RZ1-K CU C/H 1KV 4X35"
-      }
-    },
-    {
-      "163170": {
-        "ean": [
-          "5631636"
-        ],
-        "fab": "CONDUCTOR RVK, ENERGIA COBRE",
-        "ref_fab": "RZ1-K 4X35",
-        "suj_lote": "X",
-        "lotes": [
-          "CLOTE8",
-          "CLOTE9"
-        ],
-        "tipo_stk_ad": [
-          
-        ],
-        "unidad": "M",
-        "descripcion": "CABLE RZ1-K CU C/H 1KV 4X50"
-      }
-    },
-    {
-      "126294": {
-        "ean": [
-          "8421053035481"
-        ],
-        "fab": "SIMON, S.A",
-        "ref_fab": "A2",
-        "suj_lote": "",
-        "lotes": [
-          
-        ],
-        "tipo_stk_ad": [
-          "B"
-        ],
-        "unidad": "UN",
-        "descripcion": "INTERRUPTOR UNIP.ESTRECHO S.27 BL.NIEVE"
-      }
-    },
-    {
-      "126295": {
-        "ean": [
-          "8421053035498"
-        ],
-        "fab": "SIMON, S.A",
-        "ref_fab": "27101-65",
-        "suj_lote": "",
-        "lotes": [
-          
-        ],
-        "tipo_stk_ad": [
-          
-        ],
-        "unidad": "UN",
-        "descripcion": "INTERRUPTOR UNIP.ESTRECHO S.27 BL.NIEVE"
-      }
-    }
+  "tipo_stk_ad": [
+    "I",
+    "B"
   ],
-  "recuentos": {
-    "2022120700": [
+  "unidad": "M",
+  "descripcion": "CABLE RZ1-K CU C/H 1KV 4X16",
+  "recuentos": [
       {
-        "163160": {
-          "fecha": "2022,191",
-          "hora": "165012",
-          "conteo": "700.000",
-          "lote": "ALOTE1",
-          "tipo_stk_ad": "I"
-        }
+        "fecha": "2022,191",
+        "hora": "165012",
+        "conteo": "700.000",
+        "lote": "ALOTE1",
+        "tipo_stk_ad": "I"   
       },
       {
-        "163160": {
-          "fecha": "2022,191",
-          "hora": "165012",
-          "conteo": "1000.000",
-          "lote": "ALOTE2",
-          "tipo_stk_ad": "B"
-        }
+        "fecha": "2022,191",
+        "hora": "165012",
+        "conteo": "1000.000",
+        "lote": "ALOTE2",
+        "tipo_stk_ad": "B"
       },
       {
-        "163160": {
-          "fecha": "2022,191",
-          "hora": "165012",
-          "conteo": "1500.000",
-          "lote": "ALOTE2"
-        }
-      },
-      {
-        "126292": {
-          "fecha": "2022,191",
-          "hora": "165012",
-          "conteo": "600.000",
-          "tipo_stk_ad": "B"
-        }
-      },
-      {
-        "126292": {
-          "fecha": "2022,191",
-          "hora": "165012",
-          "conteo": "400.000"
-        }
+        "fecha": "2022,191",
+        "hora": "165012",
+        "conteo": "1500.000",
+        "lote": "ALOTE2"
       }
-    ],
-    "2023011200": [
-      {
-        "163166": {
-          "fecha": "2022,191",
-          "hora": "165012",
-          "conteo": "700.000",
-          "lote": "ALOTE1",
-          "tipo_stk_ad": "I"
-        }
-      },
-      {
-        "163166": {
-          "fecha": "2022,191",
-          "hora": "165012",
-          "conteo": "1000.000",
-          "lote": "ALOTE2",
-          "tipo_stk_ad": "B"
-        }
-      },
-      {
-        "163166": {
-          "fecha": "2022,191",
-          "hora": "165012",
-          "conteo": "1500.000",
-          "lote": "ALOTE2"
-        }
-      },
-      {
-        "126294": {
-          "fecha": "2022,191",
-          "hora": "165012",
-          "conteo": "600.000",
-          "tipo_stk_ad": "B"
-        }
-      },
-      {
-        "126294": {
-          "feca": "2022,191",
-          "hora": "165012",
-          "conteo": "400.000"
-        }
-      }
-    ]
-  }
+  ]
 }
