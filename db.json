@@ -261,7 +261,7 @@
                   "fecha": "2022,191",
                   "hora": "165012",
                   "conteo": "700.000",
-                  "lote": "LOTE1",
+                  "lote": "ALOTE1",
                   "tipo_stk_ad": "I"
                 }
             },
@@ -270,7 +270,7 @@
                   "fecha": "2022,191",
                   "hora": "165012",
                   "conteo": "1000.000",
-                  "lote": "LOTE2",
+                  "lote": "ALOTE2",
                   "tipo_stk_ad": "B"
                 }
             },
@@ -279,7 +279,7 @@
                   "fecha": "2022,191",
                   "hora": "165012",
                   "conteo": "1500.000",
-                  "lote": "LOTE2"
+                  "lote": "ALOTE2"
                 }
             },
             {
@@ -287,7 +287,7 @@
                   "fecha": "2022,191",
                   "hora": "165012",
                   "conteo": "1500.000",
-                  "lote": "LOTE2"
+                  "lote": "ALOTE2"
                 }
             },
             {
@@ -312,7 +312,7 @@
                   "fecha": "2022,191",
                   "hora": "165012",
                   "conteo": "700.000",
-                  "lote": "LOTE1",
+                  "lote": "ALOTE1",
                   "tipo_stk_ad": "I"
                 }
             },
@@ -321,7 +321,7 @@
                   "fecha": "2022,191",
                   "hora": "165012",
                   "conteo": "1000.000",
-                  "lote": "LOTE2",
+                  "lote": "ALOTE2",
                   "tipo_stk_ad": "B"
                 }
             },
@@ -330,7 +330,7 @@
                   "fecha": "2022,191",
                   "hora": "165012",
                   "conteo": "1500.000",
-                  "lote": "LOTE2"
+                  "lote": "ALOTE2"
                 }
             },
             {
@@ -338,7 +338,7 @@
                   "fecha": "2022,191",
                   "hora": "165012",
                   "conteo": "1500.000",
-                  "lote": "LOTE2"
+                  "lote": "ALOTE2"
                 }
             },
             {
